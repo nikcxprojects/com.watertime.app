@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280431270668",
+    "project_id": "comwatertimeapp",
+    "storage_bucket": "comwatertimeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280431270668:android:96033ec352c940d8438729",
+        "android_client_info": {
+          "package_name": "com.watertime.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280431270668-qpf1k71fgi50o0hh3695ajcepgfdo28v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ZJt0vpv_G8IgELYATUPNxECwYPkw9Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280431270668-qpf1k71fgi50o0hh3695ajcepgfdo28v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
